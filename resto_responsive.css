@@ -209,6 +209,7 @@ footer a{
     
     #featured li{
         width: 48%;
+        margin: 2%;
     }
     .wrapper{
         padding:0;
